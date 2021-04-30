@@ -18,6 +18,20 @@
 ### Dust Collection
 ### How loud is this thing really?
 ### Router or Spindle?
+- Router types:
+  - Mostly trim routers are going to fit in the Onefinity.
+    - They are usually smaller (1-1/2HP is the Makita) and have a 1/4" collet. 
+    - These trim routers are not really meant to run for long periods of time, so they can overheat.
+    - Brushes wear out, but in the case of the Makita and DeWalt, they can be replaced.
+
+- Spindle Types:
+  - Air Cooled and Water (Liquid) cooled.
+  - Built for loooooong runs
+  - Air cooled models may 'suck up' dust
+  - Liquid cooled models are inheritly more quiet.
+  - Spindles require a VFD (described below) and often require some electrical work.
+#### Router Pros and Cons
+#### Spindle Pros and Cons
 #### Tramming
 - What is tramming?
   - When your router is not set up perpendicular to the work surface (tilted).
